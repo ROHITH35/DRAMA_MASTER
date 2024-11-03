@@ -1,0 +1,10 @@
+h1{
+    background-color: black;
+    color: rgb(242, 235, 235);
+    text-align: center;
+    backdrop-filter: blur(15px);
+}
+img{
+    width: 100%;
+}
+

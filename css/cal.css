@@ -1,0 +1,75 @@
+#result{
+    margin-top: -5%;
+    
+    width: 100%;
+    height: 45px;
+    color: white;
+    background-color:transparent;
+    border: 2px rgb(244, 17, 96);
+   
+    
+}
+.g{
+    background-color: transparent;
+    border: 2px red;
+    height: 50px;
+}
+button{
+    height: 70px;
+    width: 80px;
+    border-radius: 15px;
+    backdrop-filter: blur(0px);
+    background-color: black;
+   color: white;
+    text-align: center;
+    border-color: red;
+   
+  
+}
+.container-fluid{
+    height: 600px;
+    width: 400px;
+    background-color: black;
+    border-radius: 15px;
+    box-shadow: 0px 0px 3px 3px rgb(67, 144, 144) ;
+}
+button:hover{
+   
+    background-color: red;
+    
+}
+@media (max-width: 768px) {
+    .container-fluid {
+        margin-top: 2rem;
+    }
+
+    .row {
+        margin-top: 10px;
+    }
+
+    input {
+        width: 80px; /* Adjust input width for smaller screens */
+    }
+
+    button {
+        font-size: 1rem; /* Adjust font size */
+    }
+}
+
+@media (max-width: 576px) {
+    .container-fluid {
+        margin-top: 1rem;
+    }
+
+    .row {
+        margin-top: 5px;
+    }
+
+    input {
+        width: 60px; /* Further adjust input width */
+    }
+
+    button {
+        font-size: 0.9rem; /* Smaller font size for mobile */
+    }
+}

@@ -1,0 +1,42 @@
+#ty{
+    border: 10px;
+    background-color: white;
+    margin-left: 130px;
+}
+h3{
+    color: rgb(78, 144, 231);
+}
+.container-fluid{
+    margin: 10px;
+}
+#y{
+    margin-left: 25px;
+    background-color: rgb(65, 65, 212);
+}
+#u{
+    background-color: rgb(69, 69, 203);
+}
+#ty1{
+    margin-left: 150px;
+    background-color: rgb(54, 54, 188);
+    color: white;
+}
+.op li{
+    padding-left: 10px;
+}
+#t{
+    background-color: white;
+    margin-left: 10px;
+}
+#y1{
+    margin-left: 150px;
+    background-color: white;
+}
+#l{
+    list-style: none;
+    padding-left: 0%;
+}
+#w{
+    background-color: rgb(51, 51, 166);
+    margin-left: 10px;
+}
